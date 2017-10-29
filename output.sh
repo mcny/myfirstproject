@@ -20,4 +20,13 @@ add output sh
 # On branch master
 # Your branch is up-to-date with 'origin/master'.
 #
-# Changes to be committed:[7A[8B"/home/mcny/Documents/src/MyFirstProject/.git/COMMIT_EDITMSG" 10 lines, 262 characters [8A[?5h[?5l[?1049l
+# Changes to be committed:[7A[8B"/home/mcny/Documents/src/MyFirstProject/.git/COMMIT_EDITMSG" 10 lines, 262 characters [8A[?5h[?5l[?1049lBranch FEATURE-add-gitignore set up to track remote branch FEATURE-add-gitignore from origin.
+Branch master set up to track remote branch master from origin.
+Branch FEATURE-add-gitignore set up to track remote branch FEATURE-add-gitignore from origin.
+Branch master set up to track remote branch master from origin.
+Branch FEATURE-add-gitignore set up to track remote branch FEATURE-add-gitignore from origin.
+Branch master set up to track remote branch master from origin.
+Branch FEATURE-add-gitignore set up to track remote branch FEATURE-add-gitignore from origin.
+Branch master set up to track remote branch master from origin.
+Branch FEATURE-add-gitignore set up to track remote branch FEATURE-add-gitignore from origin.
+Branch master set up to track remote branch master from origin.
